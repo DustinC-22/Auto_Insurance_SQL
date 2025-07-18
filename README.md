@@ -3,7 +3,7 @@
 This project develops a SQL-powered risk scoring pipeline for an auto insurance portfolio using a synthetic dataset. The goal is to demonstrate SQL-first data modelling, risk flag creation, scoring logic, and risk-performance analysis. This project highlights how actuarial-style portfolio segmentation can be driven by SQL queries alone, transforming raw insurance data into actionable insights for fraud detection, underwriting, and pricing adjustments.
 
 Access dashboard online via:
-https://test-branch-7a2vhroabnfukrptaxolcw.streamlit.app/
+https://autoinsurancesql.streamlit.app/Dashboard
 
 ---
 
