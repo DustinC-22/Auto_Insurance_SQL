@@ -72,7 +72,7 @@ https://autoinsurancesql.streamlit.app/Dashboard
 - **Streamlit**: Interactive dashboard with charts, filters, segment profiling.
 - **Plotly**: Bar charts, pie charts, line graphs, heatmaps, and grouped visualizations.
 - **Pandas**: CSV pre-processing.
-- **Amazon Aurora**: Used to host the MySQL database.
+- **Streamlit**: Used to host the MySQL database.
 - Modular query design for flexible exploration and scoring pipelines.
 
 ---
